@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "aa61891ea74af17b",
+    "type": "split",
+    "children": [
+      {
+        "id": "821faa856655da6a",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "2ba1360228a26139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FastAPI/FastAPI section2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FastAPI section2"
+            }
+          },
+          {
+            "id": "0811449bdf1aec7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker Desktop/1st Study Docker Desktop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1st Study Docker Desktop"
+            }
+          }
+        ]
+      },
+      {
+        "id": "320d980ae5665c3d",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "a6469b0e6b034d9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FastAPI/FastAPI section2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FastAPI section2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc4b47746f3a911c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0921083b340a1a17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83178b660f8fe81c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "afec3392dc38a351",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a371f46a60092a10",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bfa4ea5db28f968c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a78656da83706e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57d709d64257e406",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "b1feef15b322d7db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "55202f60703d64ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "912d639e982b4d85",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9bd8d068338dbe17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "83178b660f8fe81c",
+  "lastOpenFiles": [
+    "Untitled",
+    "PostgreSQL/PostgreSQL 기본 개념.md",
+    "Docker Desktop/1st Study Docker Desktop.md",
+    "photo/Pasted image 20260115115247.png",
+    "photo/Pasted image 20260115114922.png",
+    "photo/Pasted image 20260115113937.png",
+    "photo/Pasted image 20260115112618.png",
+    "photo/Pasted image 20260115113421.png",
+    "photo/Pasted image 20260115113134.png",
+    "photo/Pasted image 20260115110746.png",
+    "photo/Pasted image 20260115112018.png",
+    "photo/Pasted image 20260115105307.png",
+    "photo/Pasted image 20260115104701.png",
+    "photo",
+    "FastAPI/FastAPI section1.md",
+    "FastAPI/FastAPI section2.md",
+    "DOCKER study.md"
+  ]
+}
