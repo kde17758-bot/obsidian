@@ -79,3 +79,14 @@ python -m venv todos
 cd todos
 Scripts\activate
 ```
+---
+### 5. FastAPI 프로젝트 세팅
+```python
+from fastapi import FastAPI
+
+app = FastAPI()
+
+@app.get("/")
+def health_check_handler():
+	return {"ping": "pong"}
+```

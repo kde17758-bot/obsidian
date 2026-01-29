@@ -9,28 +9,28 @@
         "dimension": 50,
         "children": [
           {
-            "id": "2ba1360228a26139",
+            "id": "f0bd2c59495d122c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FastAPI/FastAPI section2.md",
+                "file": "Playwright/3rd Study Playwright.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "FastAPI section2"
+              "title": "3rd Study Playwright"
             }
           },
           {
-            "id": "0811449bdf1aec7e",
+            "id": "98733cfe5612d75b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Docker Desktop/1st Study Docker Desktop.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "1st Study Docker Desktop"
@@ -44,17 +44,31 @@
         "dimension": 50,
         "children": [
           {
-            "id": "a6469b0e6b034d9b",
+            "id": "770c691b3c4043a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FastAPI/FastAPI section2.md",
+                "file": "Docker Desktop/1st Study Docker Desktop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FastAPI section2"
+              "title": "1st Study Docker Desktop"
+            }
+          },
+          {
+            "id": "d7807cae361332f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker Desktop/1st Study Docker Desktop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1st Study Docker Desktop"
             }
           }
         ]
@@ -219,16 +233,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "83178b660f8fe81c",
+  "active": "f0bd2c59495d122c",
   "lastOpenFiles": [
+    "Docker Desktop/1st Study Docker Desktop.md",
+    "Playwright/3rd Study Playwright.md",
+    "photo/Pasted image 20260127110805.png",
+    "FastAPI/FastAPI section2.md",
+    "PostgreSQL/PostgreSQL 기본 개념.md",
+    "Playwright",
     "kk",
     "git pull.bat",
     "새 텍스트 문서.txt",
     "git push.bat",
     "git push.txt",
     "Untitled",
-    "PostgreSQL/PostgreSQL 기본 개념.md",
-    "Docker Desktop/1st Study Docker Desktop.md",
     "photo/Pasted image 20260115115247.png",
     "photo/Pasted image 20260115114922.png",
     "photo/Pasted image 20260115113937.png",
@@ -238,10 +256,8 @@
     "photo/Pasted image 20260115110746.png",
     "photo/Pasted image 20260115112018.png",
     "photo/Pasted image 20260115105307.png",
-    "photo/Pasted image 20260115104701.png",
     "photo",
     "FastAPI/FastAPI section1.md",
-    "FastAPI/FastAPI section2.md",
     "DOCKER study.md"
   ]
 }
